@@ -1,1 +1,0 @@
-$(function(){$gVideo=$("#playit");var e=function(){$gVideo.attr("paused")==0?$gVideo[0].pause():$gVideo[0].play()};e()});
